@@ -1,5 +1,3 @@
-
-- I am a PhD student working at Inria, France.
 - I am interested in HPC, continual learning, big data analytics.
 - I am very concerned about climate change.
 - I write on my [blog](https://thomas-bouvier.io) (sometimes).
